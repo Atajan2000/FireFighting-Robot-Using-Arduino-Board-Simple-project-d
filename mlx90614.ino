@@ -1,4 +1,4 @@
-/*------ Arduino Fire Fighting Robot Code by hobby project---- */
+
 
 #include <Wire.h>                //include Wire.h library
 #include <Servo.h>              //include servo.h library
